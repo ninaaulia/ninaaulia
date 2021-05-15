@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ninaaulia
 - 👀 I’m interested in data
-- 🌱 I’m currently learning Python and sql
-- 📫 How to reach me ig: nninaulia_
+- 🌱 I’m currently learning Python,sql & R
+- 📫 How to reach me Linkedin: https://www.linkedin.com/in/nina-aulia-13871a202/
+-  ig: nninaulia_
 
 <!---
 ninaaulia/ninaaulia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
