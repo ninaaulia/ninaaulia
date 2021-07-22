@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninaaulia
 - 👀 I’m interested in data
-- 🌱 I’m currently learning Python,sql & R
+- 🌱 I’m currently learning Python & sql
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/nina-aulia-13871a202/
 -  ig: nninaulia_
 
