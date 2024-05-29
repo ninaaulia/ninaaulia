@@ -7,8 +7,8 @@ I'm a computer science student with a passion for data science. I love exploring
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nina aulia nafisah azhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nina aulia nafisah azhary" height="30" width="40" /></a>
-<a href="https://medium.com/@ninaaulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ninaaulia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ninaaulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nina aulia nafisah azhary" height="30" width="40" /></a>
+<a href="https://medium.com/@nninaulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ninaaulia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
